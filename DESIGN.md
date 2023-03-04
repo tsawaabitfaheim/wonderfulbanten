@@ -14,7 +14,7 @@ About - This section will provide information about the Wonderful Banten Tourism
 
 Services - This section will feature information on the services offered by the website, including travel planning assistance and booking options.
 
-Destinations - This section will provide detailed information on popular tourist destinations in the Banten Province, including historical sites, natural attractions, and cultural landmarks.
+Destinations - This section will provide detailed information on popular tourist destinations in Banten Province, including historical sites, natural attractions, and cultural landmarks.
 
 Contact - This section will provide contact information for the website's administrators, allowing travelers to ask questions and provide feedback.
 
